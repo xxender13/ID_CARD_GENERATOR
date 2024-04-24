@@ -59,7 +59,7 @@ To run the ID Card Generator:
 
 
 ###Demo
-![ID Card Generation Process](https://github.com/xxender13/ID_CARD_GENERATOR/blob/main/Demo.mp4?raw=true)
+![ID Card Generation Process](https://github.com/xxender13/ID_CARD_GENERATOR/blob/main/Demo.gif?raw=true)
 
 ## Contributing
 
