@@ -58,7 +58,7 @@ To run the ID Card Generator:
    Use the GUI button "Start Making ID Cards" to generate ID cards for all employees listed in the CSV file. The ID cards will be saved as individual images and compiled into a single PDF file.
 
 
-###Demo
+## Demo
 ![ID Card Generation Process](https://github.com/xxender13/ID_CARD_GENERATOR/blob/main/Demo.gif?raw=true)
 
 ## Contributing
