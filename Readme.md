@@ -25,7 +25,7 @@ This project automates the generation of employee ID cards using Python, PIL for
 Clone this repository to your local machine:
 
 ```bash
-git clone https://yourrepositorylink.com/yourproject.git
+git clone https://github.com/xxender13/ID_CARD_GENERATOR.git
 cd yourproject
 ```
 
@@ -56,6 +56,10 @@ To run the ID Card Generator:
    ```
 2. **Generate ID Cards:**
    Use the GUI button "Start Making ID Cards" to generate ID cards for all employees listed in the CSV file. The ID cards will be saved as individual images and compiled into a single PDF file.
+
+
+###Demo
+![ID Card Generation Process](https://github.com/xxender13/ID_CARD_GENERATOR/blob/main/Demo.mp4?raw=true)
 
 ## Contributing
 
